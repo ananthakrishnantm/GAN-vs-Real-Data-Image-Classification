@@ -1,0 +1,10 @@
+# Ignore generated image folders
+final_generated_images/
+images/
+
+# Ignore model checkpoint files
+discriminator.pth
+fruit_classifier_synthesized.pth
+fruit_classifier.pth
+generator.pth
+test_fruit_classifier.pth
